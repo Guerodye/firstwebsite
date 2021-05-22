@@ -1,0 +1,19 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: chocolate;
+    text-align: center;
+}
+p{
+    color: black;
+    position: absolute;
+    right: 300px;
+}
+img{
+    position: absolute;
+    top: 20px;
+    left:1000px;
+}
+
+
